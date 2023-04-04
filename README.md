@@ -1,2 +1,3 @@
-# wto-hendler-slider-with-time-input
-<img width="71" alt="Screenshot 2023-04-04 at 16 21 07" src="https://user-images.githubusercontent.com/73466104/229805725-4170ba0c-938e-4876-b841-e345cfdd2379.png">
+<img width="293" alt="Screenshot 2023-04-04 at 16 22 14" src="https://user-images.githubusercontent.com/73466104/229806247-eb86955c-5806-4d45-b8bb-b63592342564.png">
+
+You can change the time by typing in the input or using the slider
