@@ -4,6 +4,10 @@ timeSlider.tsx
 
 You can change the time by typing in the input or using the slider
 
+<br>
+__________________________________________________
+<br>
+
 multipleSelect.tsx
 
 <img width="270" alt="Screenshot 2023-04-18 at 13 15 55" src="https://user-images.githubusercontent.com/73466104/232747171-3a23f272-b00f-4136-8c60-fd3bb3141274.png">
