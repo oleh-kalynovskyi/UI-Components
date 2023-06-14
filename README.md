@@ -20,3 +20,11 @@ __________________________________________________
 dropdownSelect.tsx
 
 <img width="162" alt="Screenshot 2023-04-18 at 15 00 16" src="https://user-images.githubusercontent.com/73466104/232770727-378ab626-cf94-413c-ac74-7e6141a336cc.png">
+
+<br>
+__________________________________________________
+<br>
+
+changeElemtnOfMenuByArrowBtn.tsx
+
+<img width="243" alt="Screenshot 2023-06-14 at 17 12 59" src="https://github.com/oleh-kalynovskyi/UI-Components/assets/73466104/6eaf2cc4-7f42-422d-bcbf-5f60e35d5473">
