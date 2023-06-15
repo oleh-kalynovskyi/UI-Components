@@ -19,3 +19,7 @@ function btnDisable(arr: string[], item: string) {
 function btnDisableP(arr: string[], item: string) {
   return 0 === arr.indexOf(item);
 }
+
+// call functions
+onClick={() => increase(SortTimeItems, values.time, 'time')} // array of menu element, current value, name of formik field
+disabled={btnDisable(SortTimeItems, values.time)} // array of menu element, current value
