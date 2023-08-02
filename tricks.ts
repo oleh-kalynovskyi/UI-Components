@@ -7,4 +7,16 @@ console.log(array); // [undefined, undefined, undefined, undefined, undefined]
     <div key={index}>{index}</div> 
   ))}
 </div>
+
 /////////////////////////////<-----------
+
+const [state, setState] = useState<Type>(dammy object);
+function arrowStatus(e: yourEvent) {
+  e.preventDefault();
+  const { name, value } = e.target or currentTarget;
+  const result = {
+    ...state,
+    [name]: value,
+  };
+  setState(result);
+}
